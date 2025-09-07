@@ -1,4 +1,4 @@
-is# PyBusinessAnalytics
+# PyBusinessAnalytics
 
 
 **Interactive Python Dash dashboard for retail sales, revenue, and customer analytics using Excel data.**
